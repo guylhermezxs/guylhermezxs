@@ -6,7 +6,8 @@
 - 🚀 Estou sempre em busca de novos desafios para crescer profissionalmente e contribuir com projetos inovadores.
 
 ## 🌐 Redes Sociais  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-fonseca-4386b2357/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/seu-usuario)](https://linkedin.com/in/seu-usuario)
+
 
 # 💻 Tecnologias  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
@@ -24,8 +25,7 @@
 ### ✍️ Citação Aleatória para Desenvolvedores  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Repositórios com Mais Contribuições  
-![](https://github-contributor-stats.vercel.app/api?username=guylhermezxs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
