@@ -6,7 +6,8 @@
 - 🚀 Estou sempre em busca de novos desafios para crescer profissionalmente e contribuir com projetos inovadores.
 
 ## 🌐 Redes Sociais  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/seu-usuario)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fonseca-4386b2357/)
+
 
 
 # 💻 Tecnologias  
