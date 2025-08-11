@@ -13,8 +13,8 @@
 > "A melhor forma de aprender a programar é programando."  
 > — Autor Desconhecido
 
-# 🗡️ Guts - Berserk  
-![Guts - Berserk](https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif)
+
+![Imagem do Castelo](assets/5985e9e5-9c96-4593-ac40-cd0811855b2f.png)
 
 ---
 
