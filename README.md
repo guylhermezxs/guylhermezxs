@@ -1,4 +1,4 @@
-# 💫 Sobre Mim  
+# ⚡️ Sobre Mim  
 👋 Oi, eu sou o Guilherme! Desenvolvedor de Sistemas com foco em soluções práticas e eficientes.
 
 - 🌱 Atualmente estudando Java, UX/UI Design, Web Design e MySQL.  
