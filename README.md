@@ -30,7 +30,6 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guylhermezxs)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/guylhermezxs)
 
 <!-- GIF ou imagem -->
 <p align="center">
@@ -44,6 +43,7 @@
   <div>
     <h3>Linguagens de Programação</h3>
     <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" />
+    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40" />
     <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" />
     <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" />
   </div>
@@ -58,6 +58,9 @@
 </div>
 
 <!-- GitHub Stats -->
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guylhermezxs&show_icons=true&theme=gotham)
+
+<!-- Spotify Embed -->
 <p align="center">
-  ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guylhermezxs&show_icons=true&theme=gotham)
+  <iframe src="https://open.spotify.com/embed/track/7yCPwWs66K8Ba5lFuU2bcx" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </p>
