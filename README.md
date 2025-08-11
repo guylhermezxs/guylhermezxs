@@ -17,11 +17,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+ 
 # 📊 Estatísticas do GitHub  
-![](https://github-readme-stats.vercel.app/api?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=guylhermezxs&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" /> &nbsp;&nbsp;&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=guylhermezxs&theme=dark&hide_border=false" height="150" /> &nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
+
 
 ### ✍️ Citação Aleatória para Desenvolvedores  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
