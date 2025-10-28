@@ -1,7 +1,7 @@
 # ⚡️ Sobre Mim  
 👋 Oi, eu sou o Guilherme! Desenvolvedor de Sistemas com foco em soluções práticas e eficientes.
 
-- 🌱 Atualmente estudando Java, UX/UI Design, Web Design e MySQL.  
+- 🌱 Atualmente estudando Java, UX/UI Design, Spring Boot e MySQL.  
 - 💻 Apaixonado por tecnologia, programação e interfaces intuitivas.  
 - 🚀 Estou sempre em busca de novos desafios para crescer profissionalmente e contribuir com projetos inovadores.
 
