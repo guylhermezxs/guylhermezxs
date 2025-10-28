@@ -19,9 +19,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
 # 📊 Estatísticas do GitHub  
-<img src="https://github-readme-stats.vercel.app/api?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="150" /> &nbsp;&nbsp;&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=guylhermezxs&theme=dark&hide_border=false" height="150" /> &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="200" /> &nbsp;&nbsp;&nbsp;
+<img src="https://nirzak-streak-stats.vercel.app/?user=guylhermezxs&theme=dark&hide_border=false" height="200" /> &nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" />
 
 
 ### ✍️ Citação Aleatória para Desenvolvedores  
