@@ -21,7 +21,7 @@
 # 📊 Estatísticas do GitHub  
 <img src="https://github-readme-stats.vercel.app/api?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="200" /> &nbsp;&nbsp;&nbsp;
 <img src="https://nirzak-streak-stats.vercel.app/?user=guylhermezxs&theme=dark&hide_border=false" height="200" /> &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guylhermezxs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" /> &nbsp;&nbsp;&nbsp;
 
 
 ### ✍️ Citação Aleatória para Desenvolvedores  
